@@ -1,0 +1,18 @@
+{
+  "name": "angular5-library-creator",
+  "version": "1.0.0",
+  "description": "\"Command line tool for bootstraping angular libraries\"",
+  "main": "index.js",
+  "repository": "",
+  "preferGlobal": true,
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajab Mkomwa",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "inquirer": "^4.0.0"
+  }
+}
